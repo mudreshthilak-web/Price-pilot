@@ -1,0 +1,11 @@
+# Netlify auto-detects Next.js and installs its runtime; this file only pins what it can't guess.
+[build]
+  # Regenerate test-results.json first so the Evaluation page shows this deploy's real test
+  # results. "|| true" keeps a failing test from blocking the deploy (the page will show it).
+  command = "npm run test:report || true; npm run build"
+
+[build.environment]
+  # Next.js 16 needs Node 20.9 or newer.
+  NODE_VERSION = "22"
+  # Sample data. Change to "live" only once the live adapter is implemented.
+  DATA_SOURCE = "mock"
