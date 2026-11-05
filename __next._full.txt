@@ -1,0 +1,32 @@
+1:"$Sreact.fragment"
+2:"static/chunks/552-28d28c04846201b8.js"
+3:"static/chunks/963-85788cfe7eed7bc1.js"
+4:"static/chunks/149-f3146956955c6ecd.js"
+5:"static/chunks/415-1cbb217023a5d35e.js"
+6:"static/chunks/app/layout-3397f8381373f19f.js"
+7:"StaticApiProvider"
+8:I[41895,["552","$2","963","$3","149","$4","415","$5","177","$6"],"$7"]
+9:I[78395,["552","$2","963","$3","149","$4","415","$5","177","$6"],"ThemeProvider"]
+a:"$Sreact.suspense"
+b:I[59162,["552","$2","963","$3","149","$4","415","$5","177","$6"],"Header"]
+c:I[7862,[],""]
+d:I[63356,[],""]
+f:I[57943,[],"ClientPageRoot"]
+10:"static/chunks/app/page-8f89c45655778f7e.js"
+11:I[93419,["552","$2","149","$4","974","$10"],"default"]
+14:I[56767,[],"OutletBoundary"]
+16:"ViewportBoundary"
+17:I[56767,[],"$16"]
+19:"MetadataBoundary"
+1a:I[56767,[],"$19"]
+1c:I[99278,[],"default",1]
+:HL["/_next/static/media/a6e4202ba90df386-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/cdcc67f77e1c6b2b.css","style"]
+e:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$Lf",null,{"Component":"$11","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@12","$@13"]}}],null,["$","$L14",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]]}],"p":false,"v":null}}]]
+0:{"P":null,"c":["",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/cdcc67f77e1c6b2b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__className_476802","children":["$","$L8",null,{"children":["$","$L9",null,{"attribute":"class","defaultTheme":"system","enableSystem":true,"disableTransitionOnChange":true,"children":["$","div",null,{"className":"relative flex min-h-screen flex-col","children":[["$","$a",null,{"fallback":["$","div",null,{"className":"h-16 border-b"}],"children":["$","$Lb",null,{}]}],["$","main",null,{"className":"flex-1","children":["$","$a",null,{"fallback":["$","div",null,{"className":"container mx-auto px-4 py-8","children":"Loading..."}],"children":["$","$Lc",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Ld",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}],["$","footer",null,{"className":"border-t py-6 text-center text-sm text-muted-foreground","children":["$","p",null,{"children":["Price Pilot — AI-assisted price comparison."," ",["$","span",null,{"className":"text-xs","children":"All prices are illustrative sample data. Not affiliated with any retailer."}]]}]}]]}]}]}]}]}]]}],"p":false,"v":null},"c":"$Qe"},"h":{"r":["$","$1","h",{"children":[null,["$","$L17",null,{"children":"$L18"}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$a",null,{"name":"Next.Metadata","children":"$L1b"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$1c",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"l6SidcT4ZlrhWZAbguR0u"}
+12:{}
+13:"$e:0:1:d:r:props:children:0:props:serverProvidedParams:params"
+18:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1d:I[80734,[],"IconMark"]
+15:null
+1b:[["$","title","0",{"children":"Price Pilot - Smart Price Comparison for India"}],["$","meta","1",{"name":"description","content":"Compare prices across Amazon, Flipkart, Croma and Reliance Digital. Find the best deals with AI-powered recommendations."}],["$","link","2",{"rel":"icon","href":"/favicon.ico?7161ee1d105bc9c7","type":"image/x-icon","sizes":"48x48"}],["$","$L1d","3",{}]]
